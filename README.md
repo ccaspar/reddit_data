@@ -19,12 +19,12 @@ Both the random forest and the logistic regression achieved accuracy scores in t
 
 
 ## Concepts and Skills used
-Python
-Pandas
-SKLearn
-BeautifulSoup
-Regex
-CountVectorizer
-Feature engineering
-Random Forest
-Logistic Regression
+Python <br>
+Pandas <br>
+SKLearn <br>
+BeautifulSoup <br>
+Regex <br>
+CountVectorizer <br>
+Feature engineering <br>
+Random Forest <br>
+Logistic Regression <br>
